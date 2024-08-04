@@ -1,4 +1,4 @@
-<h6 align = "center">Hi there 👋</h6>
+<h4 align = "center">Hi there 👋</h4>
 
 <ul>
   <li>some info</li>
