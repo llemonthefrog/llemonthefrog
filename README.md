@@ -6,6 +6,12 @@
   <li>🏫student at ITMO University (St. Petersburg)</li>
 </ul>
 
+<h3>you can contact me via</h3>
+<ul>
+  <li>👾discord: tsianidisti</li>
+  <li>📧e-mail: vatlasovsavelij@gmail.com</li>
+</ul>
+
 <h3>Tech Stack:</h3>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
