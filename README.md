@@ -1,6 +1,7 @@
 <h2 align = "center">👽</h2>
 
 <ul>
+  <li>👀18 years old</li>
   <li>🏫student at ITMO University (St. Petersburg)</li>
 </ul>
 
