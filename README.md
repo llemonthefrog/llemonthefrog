@@ -1,4 +1,4 @@
-<h2 align = "center">👽a bit of info👽</h2>
+<h2 align = "center">👽read me👽</h2>
 
 <h3>General</h3>
 <ul>
