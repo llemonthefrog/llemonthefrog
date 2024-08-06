@@ -1,10 +1,10 @@
-<h3 align = "center">👽</h3>
+<h2 align = "center">👽</h2>
 
 <ul>
   <li>🏫student at ITMO University (St. Petersburg)</li>
 </ul>
 
-<h4>Tech Stack:</h4>
+<h3>Tech Stack:</h3>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
@@ -12,7 +12,7 @@
 
 
 
-<h4>Stats info:</h4>
+<h3>Stats info:</h3>
 
 [![codewars](https://www.codewars.com/users/lamony/badges/small)](https://www.codewars.com/users/lamony)
 
