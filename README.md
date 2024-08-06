@@ -1,8 +1,15 @@
 <h3 align = "center">👽</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 <ul>
-  <li>some info</li>
+  <li></li>
 </ul>
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)
+
+
+
+
+
 
 <!--
 **llemonthefrog/llemonthefrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
