@@ -8,8 +8,13 @@
 
 <h3>You can contact me via</h3>
 <ul>
-  <li>👾discord: tsianidisti</li>
-  <li>📧e-mail: vatlasovsavelij@gmail.com</li>
+  <li>👾<b>discord:</b> tsianidisti</li>
+  <li>📧<b>e-mail:</b> vatlasovsavelij@gmail.com</li>
+</ul>
+
+<h3>Social Networks</h3>
+<ul>
+  <li>⚙️<b>steam:</b>https://steamcommunity.com/id/lam0ny/</li>
 </ul>
 
 <h3>Tech Stack:</h3>
