@@ -5,7 +5,6 @@
   <li></li>
 </ul>
 
-[![llemonthefrog's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=llemonthefrog&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 [![codewars](https://www.codewars.com/users/lamony/badges/small)](https://www.codewars.com/users/lamony)
 
 
