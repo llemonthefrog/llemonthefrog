@@ -6,7 +6,7 @@
   <li>🏫student at ITMO University (St. Petersburg)</li>
 </ul>
 
-<h3>you can contact me via</h3>
+<h3>You can contact me via</h3>
 <ul>
   <li>👾discord: tsianidisti</li>
   <li>📧e-mail: vatlasovsavelij@gmail.com</li>
