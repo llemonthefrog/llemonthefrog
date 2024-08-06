@@ -14,7 +14,7 @@
 
 <h3>Social Networks</h3>
 <ul>
-  <li>⚙️<b>steam:</b>https://steamcommunity.com/id/lam0ny/</li>
+  <li>⚙️<b>steam:</b> https://steamcommunity.com/id/lam0ny/</li>
 </ul>
 
 <h3>Tech Stack:</h3>
