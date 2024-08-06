@@ -1,5 +1,6 @@
-<h2 align = "center">👽</h2>
+<h2 align = "center">👽a bit of info👽</h2>
 
+<h3>General</h3>
 <ul>
   <li>👀18 years old</li>
   <li>🏫student at ITMO University (St. Petersburg)</li>
