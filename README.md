@@ -34,7 +34,8 @@
 
 <h3>Stats info:</h3>
 
-[![codewars](https://www.codewars.com/users/lamony/badges/small)](https://www.codewars.com/users/lamony)
+[![codewars](https://www.codewars.com/users/lamony/badges/large)](https://www.codewars.com/users/lamony)
+<br>
 ![Leetcode Stats](https://leetcard.jacoblin.cool/llemonthefrog)
 
 
