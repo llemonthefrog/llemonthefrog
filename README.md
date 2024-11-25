@@ -2,19 +2,15 @@
 
 <h3>General:</h3>
 <ul>
-  <li>👀18 years old</li>
-  <li>🏫student at ITMO University (St. Petersburg)</li>
+  <li>👀 18 years old</li>
+  <li>🏫 student at ITMO University (St. Petersburg)</li>
 </ul>
 
 <h3>You can contact me via:</h3>
 <ul>
-  <li>👾<b>discord:</b> tsianidisti</li>
-  <li>📧<b>e-mail:</b> vatlasovsavelij@gmail.com</li>
-</ul>
-
-<h3>Social Networks:</h3>
-<ul>
-  <li>⚙️<b>steam:</b> https://steamcommunity.com/id/lam0ny/</li>
+  <li>👾<b> discord:</b> tsianidisti</li>
+  <li>📧<b> e-mail:</b> vatlasovsavelij@gmail.com</li>
+  <li>🗽<b> telegram:</b> <a href = "https://t.me/lam0ny">click</a></li>
 </ul>
 
 <br>
