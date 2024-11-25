@@ -15,6 +15,8 @@
 
 <br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llemonthefrog&layout=compact&theme=highcontrast)
+
 <h3>Tech Stack:</h3>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -27,12 +29,6 @@
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
 <br>
-
-<h3>Stats info:</h3>
-
-[![codewars](https://www.codewars.com/users/lamony/badges/large)](https://www.codewars.com/users/lamony)
-<br>
-![Leetcode Stats](https://leetcard.jacoblin.cool/llemonthefrog)
 
 
 
