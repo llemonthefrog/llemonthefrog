@@ -2,7 +2,7 @@
 
 <h3>General:</h3>
 <ul>
-  <li>👀 18 years old</li>
+  <li>👀 19 years old</li>
   <li>🏫 student at ITMO University (St. Petersburg)</li>
 </ul>
 
