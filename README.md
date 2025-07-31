@@ -16,6 +16,8 @@
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llemonthefrog&layout=donut&theme=highcontrast)
+<br>
+[![Leetcode Stats](https://leetcard.jacoblin.cool/llemonthefrog)](https://leetcode.com/u/llemonthefrog/)
 
 <h3>Tech Stack:</h3>
 
