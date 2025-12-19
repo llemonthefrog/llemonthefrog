@@ -3,7 +3,7 @@
 <h3>General</h3>
 <ul>
   <li>👀 19 years old</li>
-  <li>🏫 student at ITMO University (St. Petersburg)</li>
+  <li>🏫 student at ITMO University</li>
 </ul>
 
 <h3>Tech Stack</h3>
