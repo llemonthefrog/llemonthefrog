@@ -9,7 +9,7 @@
 <h3>Tech Stack</h3>
 <ul>
   <li><b>languages:</b> C++, C#, Go, Python</li>
-  <li><b>data bases:</b> PostgreSQL, MongoDB</li>
+  <li><b>backend:</b> PostgreSQL, MongoDB, Echo</li>
   <li><b>tools:</b> Docker, Git, CI/CD</li>
 </ul>
 
