@@ -1,9 +1,16 @@
 <h2 align = "center">👽read me👽</h2>
 
-<h3>General:</h3>
+<h3>General</h3>
 <ul>
   <li>👀 19 years old</li>
   <li>🏫 student at ITMO University (St. Petersburg)</li>
+</ul>
+
+<h3>Tech Stack</h3>
+<ul>
+  <li><b>languages:</b>C++, C#, Go, Python</li>
+  <li><b>data bases:</b>PostgreSQL, MongoDB</li>
+  <li><b>tools:</b>Docker, Git, CI/CD</li>
 </ul>
 
 <h3>You can contact me via:</h3>
@@ -16,24 +23,6 @@
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llemonthefrog&layout=donut&theme=highcontrast)
-<br>
-[![Leetcode Stats](https://leetcard.jacoblin.cool/llemonthefrog)](https://leetcode.com/u/llemonthefrog/)
-
-<h3>Tech Stack:</h3>
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-
-<h3>IDE's:</h3>
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-
-<br>
-
-
-
-
 
 
 <!--
