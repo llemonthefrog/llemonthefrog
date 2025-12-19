@@ -8,9 +8,9 @@
 
 <h3>Tech Stack</h3>
 <ul>
-  <li><b>languages:</b>C++, C#, Go, Python</li>
-  <li><b>data bases:</b>PostgreSQL, MongoDB</li>
-  <li><b>tools:</b>Docker, Git, CI/CD</li>
+  <li><b>languages:</b> C++, C#, Go, Python</li>
+  <li><b>data bases:</b> PostgreSQL, MongoDB</li>
+  <li><b>tools:</b> Docker, Git, CI/CD</li>
 </ul>
 
 <h3>You can contact me via:</h3>
